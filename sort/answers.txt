@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: If I use sort1 , 2 and 3 in an sorted list and an random list the bubble sort is the only that doesn have matched sorted and random times.
+
+sort2 uses: Merge Sort
+
+How do you know?: If I use sort2 and sort 3 to sort an big list of numbers like 50k, the Merge Sort use less time then Selection sort to be sorted.
+
+sort3 uses: Selection Sort
+
+How do you know?: Finally after discovering sort 2 the selection sort was the only one left.
